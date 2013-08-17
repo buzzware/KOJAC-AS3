@@ -1,3 +1,6 @@
+This is the ActionScript 3 version
+
+
 > "Sometimes the strategic breakthrough will be a new algorithm ... Much more often, strategic breakthrough will come from redoing the representation of the data or tables. This is where the heart of a program lies."
 > - "The Mythical Man Month" by Fred Brooks
 
